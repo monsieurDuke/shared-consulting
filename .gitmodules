@@ -1,0 +1,3 @@
+[submodule "themes/nord-hugo-book"]
+	path = themes/nord-hugo-book
+	url = https://github.com/hotpotcookie/nord-hugo-book.git
