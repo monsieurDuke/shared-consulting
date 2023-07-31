@@ -44,3 +44,11 @@ theme = 'nord-hugo-book'
     tabWidth = 4
 ```
 
+## push to github
+```bash
+git config --global user.name "monsieurDuke"
+git config --global user.email "icatmuhammad2@gmail.com"
+git remote add origin https://github.com/monsieurDuke/shared-consulting.git
+git branch -M main
+git push -u origin main
+```
